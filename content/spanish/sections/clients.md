@@ -8,16 +8,15 @@ clients:
   - name: "Avia"
     image: "/images/clients/logo_avia_energias.png"
     href: "https://www.aviaenergias.es/"
-    
+
   - name: "Gigas"
     image: "/images/clients/gigas.png"
     href: "https://gigas.com/"
-    
+
   - name: "Glin"
     image: "/images/clients/glin-logo-black.png"
     href: "https://glin-technologies.com/"
-    
-    
+
 # don't create a separate page
 _build:
   render: "never"
