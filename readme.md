@@ -113,11 +113,6 @@ Start the development server using the following command.
 
 ```bash
 npm run dev
-```
-
-### 🎬 Still Confused? Watch a Quick Video
-
-https://github.com/zeon-studio/hugoplate/assets/58769763/c260c0ae-91be-42ce-b8db-aa7f11f777bd
 
 ---
 
