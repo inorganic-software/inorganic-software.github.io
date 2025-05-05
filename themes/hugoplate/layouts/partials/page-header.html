@@ -1,0 +1,13 @@
+<section
+  class="from-body to-light dark:from-darkmode-body dark:to-darkmode-light bg-gradient-to-b px-8 py-14">
+  <div class="container text-center">
+    <div>
+      <h1 class="mb-4">{{ T (printf "%s" (lower .Title)) | default .Title | title }}</h1>
+      <p><strong>{{ T (printf "%s" (lower .Params.subtitle)) | default .Params.subtitle }}</strong></p>
+      <p class="max-w-2xl mx-auto">{{ T (printf "%s" (lower .Params.descriptionPage)) | default .Params.descriptionPage }}</p>
+    </div>
+  </div>
+</section>
+<div class="container">
+  {{ partial "components/breadcrumb" (dict "Context" . "Class" "my-6") }}
+</div>
