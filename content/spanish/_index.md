@@ -20,8 +20,8 @@ features:
       - "Sistemas de gestión empresarial"
       - "Integración de APIs y servicios"
     button:
-      enable: false
-      label: "Conoce más sobre nuestros servicios de software"
+      enable: true
+      label: "Servicios de software"
       link: "software"
 
   - title: "Data"
@@ -33,7 +33,7 @@ features:
       - "Visualización de datos y dashboards"
     button:
       enable: true
-      label: "Conoce más sobre nuestros servicios de data"
+      label: "Servicios de data"
       link: "data"
 
   - title: "Ciberseguridad"
@@ -44,8 +44,8 @@ features:
       - "Implementación de soluciones de seguridad"
       - "Monitoreo y respuesta a incidentes"
     button:
-      enable: false
-      label: "Conoce más sobre nuestros servicios de ciberseguridad"
+      enable: true
+      label: "Servicios de ciberseguridad"
       link: "cybersecurity"
 
   - title: "Cloud"
@@ -56,7 +56,7 @@ features:
       - "Arquitectura e infraestructura cloud"
       - "Optimización de costos y rendimiento"
     button:
-      enable: false
-      label: "Conoce más sobre nuestros servicios de cloud"
+      enable: true
+      label: "Servicios de cloud"
       link: "cloud"
 ---

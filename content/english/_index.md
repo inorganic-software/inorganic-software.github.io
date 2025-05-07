@@ -20,8 +20,8 @@ features:
       - "Enterprise management systems"
       - "API and service integration"
     button:
-      enable: false
-      label: "Learn more about our software services"
+      enable: true
+      label: "Software services"
       link: "software"
 
   - title: "Data"
@@ -33,7 +33,7 @@ features:
       - "Data visualization and dashboards"
     button:
       enable: true
-      label: "Learn more about our data services"
+      label: "Data services"
       link: "data"
 
   - title: "Cybersecurity"
@@ -44,8 +44,8 @@ features:
       - "Implementation of security solutions"
       - "Monitoring and incident response"
     button:
-      enable: false
-      label: "Learn more about our cybersecurity services"
+      enable: true
+      label: "Cybersecurity services"
       link: "cybersecurity"
 
   - title: "Cloud"
@@ -56,7 +56,7 @@ features:
       - "Cloud architecture and infrastructure"
       - "Cost and performance optimization"
     button:
-      enable: false
-      label: "Learn more about our cloud services"
+      enable: true
+      label: "Cloud services"
       link: "cloud"
 ---
