@@ -58,17 +58,17 @@ weight = 5
 
 
 # footer menu
-[[footer]]
-name = "About"
-url = "/about"
-weight = 1
+#[[footer]]
+#name = "About"
+#url = "/about"
+#weight = 1
 
 [[footer]]
 name = "General Terms"
 url = "/terms"
-weight = 2
+weight = 1
 
 [[footer]]
 name = "Privacy Policy"
 url = "/privacy-policy"
-weight = 3
+weight = 2

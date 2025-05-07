@@ -25,7 +25,7 @@ features:
       link: "software"
 
   - title: "Data"
-    image: "/images/cybersecurity.png"
+    image: "/images/data.png"
     content: "Transforme sus datos en información valiosa para la toma de decisiones. Ofrecemos servicios de análisis de datos, big data y business intelligence para ayudarle a descubrir patrones y tendencias que impulsen el crecimiento de su negocio."
     bulletpoints:
       - "Análisis de datos y business intelligence"

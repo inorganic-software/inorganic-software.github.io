@@ -27,17 +27,17 @@ url = "/cloud"
 weight = 5
 
 # footer menu
-[[footer]]
-name = "Sobre nosotros"
-url = "/about"
-weight = 1
+#[[footer]]
+#name = "Sobre nosotros"
+#url = "/about"
+#weight = 1
 
 [[footer]]
 name = "Condiciones generales"
 url = "/terms"
-weight = 2
+weight = 1
 
 [[footer]]
 name = "Política de privacidad"
 url = "/privacy-policy"
-weight = 3
+weight = 2
