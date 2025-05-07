@@ -19,6 +19,10 @@
   height: 35px;
 }
 
+.btn {
+  text-transform: none;
+}
+
 .diagonal-section {
   padding-top: 120px;
   padding-bottom: 100px;
