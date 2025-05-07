@@ -3,6 +3,10 @@
   --radius-3xl: 1.25rem;
   --radius-4xl: 1.5rem;
 }
+header {
+  left: 0;
+  right: 0;
+}
 .btn{
   border-radius: var(--radius-4xl);
 }
