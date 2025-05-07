@@ -5,5 +5,5 @@ description: "Contáctanos y potencia la transformación digital de tu empresa c
 draft: false
 ---
 
-Conectemos. Si estás explorando nuevas soluciones digitales o tienes dudas sobre cómo podemos ayudarte, envíanos un mensaje y nuestro equipo se pondrá en contacto contigo en breve.
+Si estás explorando nuevas soluciones digitales o tienes dudas sobre cómo podemos ayudarte, envíanos un email a **contact@inorganic.es** y nuestro equipo se pondrá en contacto contigo en breve.
 
