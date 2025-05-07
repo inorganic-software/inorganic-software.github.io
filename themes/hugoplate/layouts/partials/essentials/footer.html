@@ -47,12 +47,14 @@
       </div>
     </div>
   </div>
-  <div class="border-border dark:border-darkmode-border border-t py-7">
+  <div class="border-border dark:border-darkmode-border border-t py-3">
     <div
       class="text-text-light dark:text-darkmode-text-light container text-center">
-      <p>
-        {{ site.Params.copyright | markdownify }}
-      </p>
+      {{ partial "components/language-switcher" (dict "Context" . "Class" "mr-5 pl-2 py-1 dark:bg-darkmode-light rounded-full") }}
+
+      <small>
+        © {{ now.Year }} {{ i18n "copyright" | default site.Params.copyright | markdownify }}
+      </small>
     </div>
   </div>
 </footer>

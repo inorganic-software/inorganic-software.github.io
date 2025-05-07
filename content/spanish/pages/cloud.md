@@ -14,7 +14,7 @@ draft: false
 # Features
 features:
   - title: "Nuestros servicios incluyen"
-    image: "/images/service-1.png"
+    image: "/images/cloud.png"
     content: ""
     bulletpoints:
       - "**Migración a la nube (AWS, Azure, Google Cloud)**: Ayudamos a tu empresa a trasladar sus sistemas, aplicaciones y bases de datos a la nube, con un proceso de migración ágil y seguro."

@@ -12,3 +12,11 @@ search_initial_message: Type something to search..
 search_navigate: to navigate
 search_select: to select
 search_close: to close
+copyright: Inorganic. All rights reserved.
+contact_name: Full Name
+contact_email: Email Address
+contact_message: Write your message
+contact_placeholder_name: Enter your name
+contact_placeholder_email: Enter your email address
+contact_placeholder_message: Write your message here
+contact_send: Send

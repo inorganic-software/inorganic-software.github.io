@@ -10,7 +10,7 @@
         class="mb:md-0 {{ if not (modBool $i 2) }}
               md:order-2
             {{ end }} md:col-5 mb-6">
-        {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+        {{ partial "image" (dict "Src" .image "Class" "rounded-full" "Alt" .title "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
       </div>
       <div
         class="{{ if not (modBool $i 2) }}
@@ -55,4 +55,47 @@
       </div>
     </div>
   </section>
+
+
+<!-- Partners -->
+{{ with site.GetPage "sections/partner" }}
+{{ if .Params.enable }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
+        <h2 class="mb-4">
+          {{ .Title | markdownify }}
+        </h2>
+        <p>
+          {{ .Params.description | markdownify }}
+        </p>
+      </div>
+      <div class="col-12">
+        <div class="swiper partner-slider">
+          <div class="swiper-wrapper">
+            {{ range .Params.partners }}
+            <div class="swiper-slide flex items-center justify-center h-full">
+              <div
+                class="bg-white dark:bg-darkmode-light px-7 py-7">
+                <div class="text-text-dark dark:text-white">
+                  {{ partial "image" (dict "Src" .image "Class" "max-h-24 h-auto w-auto" "Alt" .name) }}
+                </div>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+          <div
+            class="partner-slider-pagination mt-9 flex items-center justify-center text-center"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 {{ end }}
+{{ end }}
+<!-- /Partners -->
+
+
+{{ end }}
+

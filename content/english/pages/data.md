@@ -13,7 +13,7 @@ draft: false
 # Features
 features:
   - title: "Our services include"
-    image: "/images/service-1.png"
+    image: "/images/data.png"
     content: ""
     bulletpoints:
       - "**Data analysis and business intelligence**: We extract, process, and analyze data to provide clear insights that drive your business decisions."

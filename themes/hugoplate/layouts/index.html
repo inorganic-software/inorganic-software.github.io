@@ -1,8 +1,16 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14">
-      <div class="container">
+    <section class="section pt-14 relative overflow-hidden diagonal-section">
+      {{ if .video }}
+      <video autoplay muted loop playsinline class="absolute top-0 left-0 w-full h-full object-cover z-0">
+        <source src="{{ "videos/home.webm" | relURL }}" type="video/webm">
+      </video>
+
+      <!-- Capa blanca semitransparente sobre el video -->
+      <div class="absolute inset-0 bg-white dark:bg-black opacity-75 z-0 w-full h-full"></div>
+      {{ end }}
+      <<div class="container relative z-10">
         <div class="row justify-center">
           <div class="lg:col-7 md:col-9 mb-8 text-center">
             <h1 class="mb-4 text-h3 lg:text-h1 mt-8">
@@ -36,14 +44,16 @@
 
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
-    <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
+    <section class="section-sm {{ if ne $i 0 }}bg-gradient{{ end }}">
+<!--    <section class="section-sm {{ if (modBool $i 2) }}{{ else }}bg-gradient{{ end }}">-->
+<!--    <section class="section-sm bg-gradient-to-r">-->
       <div class="container">
         <div class="row items-center justify-between">
           <div
             class="mb:md-0 {{ if not (modBool $i 2) }}
               md:order-2
             {{ end }} md:col-5 mb-6">
-            {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+            {{ partial "image" (dict "Src" .image "Class" "rounded-full" "Alt" .title "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
           </div>
           <div
             class="{{ if not (modBool $i 2) }}

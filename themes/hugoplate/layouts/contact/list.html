@@ -1,46 +1,46 @@
 {{ define "main" }}
   {{ partial "page-header" . }}
 
-
-  <section class="section-sm">
+  <section class="section-sm pt-1">
     <div class="container">
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
+          {{ .Content }}
           <form action="{{ site.Params.contact_form_action }}" method="POST">
-            <div class="mb-6">
+            <div class="mb-6 mt-6">
               <label for="name" class="form-label">
-                Full Name <span class="text-red-500">*</span>
+                {{ i18n "contact_name" }} <span class="text-red-500">*</span>
               </label>
               <input
                 id="name"
                 name="name"
                 class="form-input"
-                placeholder="John Doe"
+                placeholder="{{ i18n "contact_placeholder_name" }}"
                 type="text" />
             </div>
             <div class="mb-6">
               <label for="email" class="form-label">
-                Working Mail <span class="text-red-500">*</span>
+                {{ i18n "contact_email" }} <span class="text-red-500">*</span>
               </label>
               <input
                 id="email"
                 name="email"
                 class="form-input"
-                placeholder="john.doe@email.com"
+                placeholder="{{ i18n "contact_placeholder_email" }}"
                 type="email" />
             </div>
             <div class="mb-6">
               <label for="message" class="form-label">
-                Anything else? <span class="text-red-500">*</span>
+                {{ i18n "contact_message" }} <span class="text-red-500">*</span>
               </label>
               <textarea
                 id="message"
                 name="message"
                 class="form-input"
-                placeholder="Message goes here..."
+                placeholder="{{ i18n "contact_placeholder_message" }} "
                 rows="8"></textarea>
             </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary">{{ i18n "contact_send" }} </button>
           </form>
         </div>
       </div>

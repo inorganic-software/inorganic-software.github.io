@@ -13,7 +13,7 @@ draft: false
 # Features
 features:
   - title: "Our services include"
-    image: "/images/service-1.png"
+    image: "/images/cybersecurity.png"
     content: ""
     bulletpoints:
       - "**Security audits and risk assessments**: We conduct thorough audits to identify vulnerabilities and provide tailored solutions."

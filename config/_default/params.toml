@@ -21,7 +21,7 @@ logo_text = "Inorganic"
 navbar_fixed = true
 
 # theme-mode
-theme_switcher = false
+theme_switcher = true
 theme_default = "light" # available options [light/dark/system]
 
 # Main Sections
@@ -38,7 +38,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 
 # copyright
-copyright = "© 2025 Inorganic. Todos los derechos reservados."
+copyright = "© 2025 Inorganic. All rights reserved."
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader

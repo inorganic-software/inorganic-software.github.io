@@ -13,7 +13,7 @@ draft: false
 # Features
 features:
   - title: "Our services include"
-    image: "/images/service-1.png"
+    image: "/images/cloud.png"
     content: ""
     bulletpoints:
       - "**Cloud migration (AWS, Azure, Google Cloud)**: We help your company move its systems, applications, and databases to the cloud with a fast and secure migration process."

@@ -4,15 +4,16 @@ banner:
   title: "Soluciones Tecnológicas Integrales"
   content: "Ofrecemos servicios especializados en Software, Data, Ciberseguridad y Cloud para impulsar la transformación digital de su empresa."
   image: "/images/banner.png"
+  video: "/images/home.webm"
   button:
     enable: true
     label: "Contáctanos"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "contact"
 
 # Features
 features:
   - title: "Software"
-    image: "/images/service-1.png"
+    image: "/images/software.png"
     content: "Acelera el desarrollo de tu producto digital con software de alto rendimiento diseñado a la medida de tus objetivos. Desde la idea hasta el lanzamiento, hacemos realidad tu visión con tecnología de vanguardia y desarrollo ágil." 
     bulletpoints:
       - "Desarrollo de aplicaciones web y móviles"
@@ -24,7 +25,7 @@ features:
       link: "software"
 
   - title: "Data"
-    image: "/images/service-2.png"
+    image: "/images/cybersecurity.png"
     content: "Transforme sus datos en información valiosa para la toma de decisiones. Ofrecemos servicios de análisis de datos, big data y business intelligence para ayudarle a descubrir patrones y tendencias que impulsen el crecimiento de su negocio."
     bulletpoints:
       - "Análisis de datos y business intelligence"
@@ -36,7 +37,7 @@ features:
       link: "data"
 
   - title: "Ciberseguridad"
-    image: "/images/service-3.png"
+    image: "/images/cybersecurity.png"
     content: "Proteja su empresa contra amenazas digitales con nuestras soluciones de ciberseguridad. Ofrecemos servicios de evaluación de riesgos, implementación de medidas de seguridad y monitoreo continuo para garantizar la integridad de sus sistemas y datos."
     bulletpoints:
       - "Auditorías de seguridad y evaluación de riesgos"
@@ -48,7 +49,7 @@ features:
       link: "cybersecurity"
 
   - title: "Cloud"
-    image: "/images/service-3.png"
+    image: "/images/cloud.png"
     content: "Migre sus operaciones a la nube y aproveche la escalabilidad, flexibilidad y eficiencia que ofrecen las tecnologías cloud. Nuestros expertos le ayudarán a diseñar e implementar la estrategia cloud más adecuada para su negocio."
     bulletpoints:
       - "Migración a la nube (AWS, Azure, Google Cloud)"

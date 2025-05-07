@@ -12,8 +12,8 @@ draft: false
 
 # Features
 features:
-  - title: "Our services include"
-    image: "/images/service-1.png"
+  - title: "Our services include" 
+    image: "/images/software.png"
     content: ""
     bulletpoints:
       - "**Web and mobile application development**: We build robust and efficient platforms that deliver an exceptional user experience."

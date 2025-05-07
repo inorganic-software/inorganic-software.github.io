@@ -13,7 +13,7 @@ draft: false
 # Features
 features:
   - title: "Nuestros servicios incluyen"
-    image: "/images/service-1.png"
+    image: "/images/software.png"
     content: ""
     bulletpoints:
       - "**Desarrollo de aplicaciones web y móviles**: Creamos plataformas robustas y eficientes que ofrecen una experiencia de usuario excepcional."

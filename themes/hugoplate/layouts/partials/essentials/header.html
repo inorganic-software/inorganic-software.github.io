@@ -1,5 +1,5 @@
 <header
-  class="header {{ if site.Params.navbar_fixed }}sticky top-0{{ end }} z-30">
+  class="header {{ if site.Params.navbar_fixed }} fixed md:top-2 mb-2{{ end }} z-30 py-2 md:mx-5 md:rounded-full py-1 w-full">
   <nav class="navbar container">
     <!-- logo -->
     <div class="order-0">
@@ -127,7 +127,6 @@
         {{ end }}
       {{ end }}
 
-      {{ partial "components/language-switcher" (dict "Context" . "Class" "mr-5 pl-2 py-1 dark:bg-darkmode-light rounded") }}
       {{ partial "components/theme-switcher" (dict "Class" "mr-5") }}
 
 
