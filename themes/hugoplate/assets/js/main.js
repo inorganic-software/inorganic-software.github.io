@@ -39,6 +39,7 @@
   new Swiper(".partner-slider", {
     spaceBetween: 24,
     loop: false,
+    autoplay: true,
     pagination: {
       el: ".partner-slider-pagination",
       type: "bullets",
@@ -58,16 +59,13 @@
   new Swiper(".clients-slider", {
     spaceBetween: 24,
     loop: false,
+    autoplay: true,
     pagination: {
       el: ".clients-slider-pagination",
       type: "bullets",
       clickable: true,
     },
     breakpoints: {
-      0: {
-        watchSlidesProgress: true,
-        slidesPerView: 1,
-      },
       768: {
         watchSlidesProgress: true,
         slidesPerView: 3,
