@@ -1,33 +1,41 @@
 ---
-title: "Privacy"
+title: "Terms and Conditions of Use"
 # meta title
-meta_title: ""
+meta_title: "Terms and Conditions of Use"
 # meta description
-description: "This is meta description"
+description: "By accessing and using this website, you agree to the following terms and conditions."
 # save as draft
 draft: false
 ---
 
-#### Responsibility of Contributors
+**Last updated: May 7, 2025**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Welcome to **Inorganic**. By accessing and using this website, you agree to the following terms and conditions. If you do not agree, please do not use our services.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+## 1. Purpose
 
-#### Gathering of Personal Information
+These terms govern access to and use of the **Inorganic** website and its related services.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+## 2. Access and use
 
-#### Protection of Personal- Information
+Access is free, excluding the cost of your internet connection. You agree to use the site lawfully, ethically, and in accordance with these terms.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+## 3. User account
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+Some services may require registration. You are responsible for the accuracy of the data you provide and for keeping your password secure.
 
-#### Privacy Policy Changes
+## 4. Intellectual property
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+All content (texts, images, code, trademarks, etc.) is the property of **Inorganic** or licensed third parties, and is protected by intellectual property laws.
+
+## 5. Liability
+
+**Inorganic** is not responsible for any damage resulting from improper use of the site or events beyond our control.
+
+## 6. Modifications
+
+We reserve the right to modify these terms at any time. Updated versions will be posted on this page.
+
+## 7. Applicable law
+
+These terms are governed by Spanish law. In the event of a dispute, the parties submit to the courts of Madrid, unless otherwise provided by law.

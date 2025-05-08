@@ -1,33 +1,41 @@
 ---
-title: "Privacy"
+title: "Condiciones Generales de Uso"
 # meta title
-meta_title: ""
+meta_title: "Condiciones Generales de Uso"
 # meta description
-description: "This is meta description"
+description: "Al acceder y utilizar este sitio web, aceptas las siguientes condiciones generales de uso."
 # save as draft
 draft: false
 ---
 
-#### Responsibility of Contributors
+**Última actualización: 7 de mayo de 2025**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Bienvenido a **Inorganic**. Al acceder y utilizar este sitio web, aceptas las siguientes condiciones generales de uso. Si no estás de acuerdo con estos términos, por favor, no utilices nuestros servicios.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+## 1. Objeto
 
-#### Gathering of Personal Information
+Estas condiciones regulan el acceso y uso del sitio web de **Inorganic**, así como los servicios ofrecidos a través del mismo.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+## 2. Acceso y uso
 
-#### Protection of Personal- Information
+El acceso es gratuito, sin perjuicio del coste de conexión del proveedor de internet del usuario. El uso del sitio implica el compromiso de actuar de forma lícita, ética y conforme a estas condiciones.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+## 3. Cuenta de usuario
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+Algunos servicios pueden requerir registro. El usuario se responsabiliza de la veracidad de los datos y de mantener su contraseña segura.
 
-#### Privacy Policy Changes
+## 4. Propiedad intelectual
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+Todos los contenidos (textos, imágenes, código, marcas, etc.) son propiedad de **Inorganic** o de terceros con licencia, protegidos por las leyes de propiedad intelectual.
+
+## 5. Responsabilidad
+
+**Inorganic** no se hace responsable por daños derivados del mal uso del sitio o por causas fuera de su control.
+
+## 6. Modificaciones
+
+Nos reservamos el derecho a modificar estas condiciones en cualquier momento. Las nuevas versiones estarán disponibles en esta misma página.
+
+## 7. Legislación aplicable
+
+Estas condiciones se rigen por la legislación española. Para cualquier conflicto, las partes se someten a los tribunales de Madrid, salvo disposición legal en contra.

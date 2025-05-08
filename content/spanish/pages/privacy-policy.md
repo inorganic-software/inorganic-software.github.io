@@ -1,33 +1,62 @@
 ---
-title: "Privacy"
+title: "Política de Privacidad"
 # meta title
-meta_title: ""
+meta_title: "Política de Privacidad"
 # meta description
-description: "This is meta description"
+description: "Respetamos tu privacidad. Esta política explica cómo recopilamos, usamos y protegemos tus datos personales."
 # save as draft
 draft: false
 ---
 
-#### Responsibility of Contributors
+**Última actualización: 7 de mayo de 2025**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+En **Inorganic** respetamos tu privacidad. Esta política explica cómo recopilamos, usamos y protegemos tus datos personales.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+## 1. Responsable del tratamiento
 
-#### Gathering of Personal Information
+**Responsable:** Inorganic  
+**Correo electrónico:** contacto@inorganic.es
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+## 2. Datos que recopilamos
 
-#### Protection of Personal- Information
+Podemos recopilar:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+- Nombre y apellidos
+- Correo electrónico
+- Dirección IP
+- Datos de navegación
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+## 3. Finalidad
 
-#### Privacy Policy Changes
+Usamos tus datos para:
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+- Proveer nuestros servicios
+- Gestionar tus solicitudes
+- Mejorar tu experiencia
+- Cumplir obligaciones legales
+
+## 4. Base legal
+
+Tratamos tus datos en base a tu consentimiento, ejecución de contrato, obligaciones legales o interés legítimo.
+
+## 5. Cesión de datos
+
+No compartimos tus datos con terceros salvo requerimiento legal o si es necesario para el servicio.
+
+## 6. Derechos
+
+Puedes:
+
+- Acceder, rectificar o suprimir tus datos
+- Solicitar limitación o portabilidad
+- Oponerte al tratamiento
+
+Escríbenos a contacto@inorganic.es para ejercer tus derechos.
+
+## 7. Seguridad
+
+Adoptamos medidas técnicas y organizativas para proteger tu información.
+
+## 8. Cambios
+
+Podemos modificar esta política. Te avisaremos de cambios significativos en esta página.
