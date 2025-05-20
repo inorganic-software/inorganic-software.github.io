@@ -13,9 +13,9 @@ clients:
     image: "/images/clients/gigas.png"
     href: "https://gigas.com/"
 
-  - name: "Glin"
-    image: "/images/clients/glin-logo-black.png"
-    href: "https://glin-technologies.com/"
+  - name: "Glintt Next"
+    image: "/images/clients/glintt-next-logo.svg"
+    href: "https://www.glinttnext.com/"
     
 # don't create a separate page
 _build:

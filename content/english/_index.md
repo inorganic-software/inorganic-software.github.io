@@ -59,4 +59,31 @@ features:
       enable: true
       label: "Cloud services"
       link: "cloud"
+
+  - title: "AI"
+    image: "/images/ai-integration.png"
+    content: "We apply artificial intelligence to your workflows to enhance decision-making, automate repetitive tasks, and unlock meaningful insights from your data. We deliver practical, tailored, and sustainable AI solutions."
+    bulletpoints:
+      - "AI strategy and consulting"
+      - "Custom AI integration into existing systems"
+      - "Intelligent automation and predictive analytics"
+      - "Ongoing support and continuous improvement"
+    button:
+      enable: true
+      label: "AI Services"
+      link: "ai"
+
+  - title: "Networking"
+    image: "/images/networking.png"
+    content: "We design, optimize, and manage secure and scalable network architectures tailored to your business. From on-premises to the cloud, we enable seamless connectivity and implement software-defined networking (SDN) solutions."
+    bulletpoints:
+      - "Hybrid network topologies"
+      - "Efficient intra-cloud connectivity"
+      - "Integration between on-premises and cloud environments"
+      - "Software-defined networking (SDN)"
+    button:
+      enable: true
+      label: "Networking Services"
+      link: "networking"
+
 ---

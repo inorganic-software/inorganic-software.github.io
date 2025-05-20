@@ -5,4 +5,4 @@ description: "Get in touch to boost your digital transformation with our Softwar
 draft: false
 ---
 
-Let’s connect. If you’re exploring new digital solutions or have questions about how we can help, send us an email at **contact@inorganic.es** and our team will get back to you shortly.
+Let’s connect. If you’re exploring new digital solutions or have questions about how we can help, send us an email at **info@inorganic.es** and our team will get back to you shortly.

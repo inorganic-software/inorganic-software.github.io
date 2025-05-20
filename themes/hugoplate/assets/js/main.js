@@ -72,7 +72,7 @@
       },
       992: {
         watchSlidesProgress: true,
-        slidesPerView: 4,
+        slidesPerView: 3,
       },
     },
   });

@@ -59,4 +59,30 @@ features:
       enable: true
       label: "Servicios de cloud"
       link: "cloud"
+  - title: "AI"
+    image: "/images/ai-integration.png"
+    content: "Aplicamos inteligencia artificial a tus procesos para optimizar la toma de decisiones, automatizar tareas repetitivas y extraer valor real de tus datos. Diseñamos soluciones prácticas, personalizadas y sostenibles."
+    bulletpoints:
+      - "Estrategia y consultoría en IA"
+      - "Integración personalizada de IA en sistemas existentes"
+      - "Automatización inteligente y análisis predictivo"
+      - "Soporte técnico y mejora continua"
+    button:
+      enable: true
+      label: "Servicios de AI"
+      link: "ai"
+
+  - title: "Networking"
+    image: "/images/networking.png"
+    content: "Diseñamos, optimizamos y gestionamos arquitecturas de red seguras, escalables y adaptadas a tu negocio. Facilitamos la conectividad entre entornos locales y la nube, así como la implementación de redes definidas por software."
+    bulletpoints:
+      - "Topologías de red híbridas"
+      - "Conectividad intra-nube eficiente"
+      - "Interconexión entre sistemas on-premise y cloud"
+      - "Redes definidas por software (SDN)"
+    button:
+      enable: true
+      label: "Servicios de networking"
+      link: "networking"
+
 ---
