@@ -50,7 +50,7 @@
         slidesPerView: 3,
       },
       992: {
-        slidesPerView: 3,
+        slidesPerView: 4,
       },
     },
   });
@@ -72,7 +72,7 @@
       },
       992: {
         watchSlidesProgress: true,
-        slidesPerView: 3,
+        slidesPerView: 4,
       },
     },
   });

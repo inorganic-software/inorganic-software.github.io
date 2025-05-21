@@ -55,6 +55,10 @@ header {
   left: -100px;
 }
 
+.swiper-wrapper {
+  align-items: center;
+}
+
 @media (min-width: 1024px) {
   .diagonal-section {
     padding-top: 150px;
