@@ -17,9 +17,9 @@ partners:
     image: "/images/partner/uc3m.jpg"
     href: "https://www.uc3m.es/inicio"
 
-  - name: "Google"
-    image: "/images/partner/google-cloud-partner.png"
-    href: "https://partnersdirectory.withgoogle.com/"
+    #   - name: "Google"
+    #    image: "/images/partner/google-cloud-partner.png"
+  #    href: "https://partnersdirectory.withgoogle.com/"
 
 
 # don't create a separate page
