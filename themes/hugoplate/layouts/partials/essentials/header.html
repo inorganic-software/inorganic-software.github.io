@@ -1,5 +1,5 @@
 <header
-  class="header {{ if site.Params.navbar_fixed }} fixed top-2 mb-2 {{ end }} z-30 py-4 md:py-2 mx-3 md:mx-5 rounded-4xl md:rounded-full py-1">
+  class="header {{ if site.Params.navbar_fixed }} fixed top-2 mb-2 {{ end }} z-30 py-4 md:py-2 mx-3 md:mx-5 rounded-4xl lg:rounded-full py-1">
   <nav class="navbar container">
     <!-- logo -->
     <div class="order-0">
@@ -29,7 +29,7 @@
     <!-- main navbar -->
     <ul
       id="nav-menu"
-      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8">
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 mt-10 lg:mt-0">
       {{ $currentPage := . }}
       {{ range site.Menus.main }}
         {{ $menuURL := .URL | absLangURL }}
@@ -96,9 +96,9 @@
         {{ end }}
       {{ end }}
       {{ if site.Params.navigation_button.enable }}
-        <li class="mt-4 inline-block lg:hidden">
+        <li class="mt-4 md:inline-block lg:hidden">
           <a
-            class="btn btn-outline-primary btn-sm"
+            class="btn btn-outline-primary md:btn-sm block md:inline-block"
             href="{{ site.Params.navigation_button.link | relLangURL }}">
             {{ site.Params.navigation_button.label }}
           </a>
