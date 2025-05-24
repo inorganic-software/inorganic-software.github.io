@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # o la rama que uses como principal
+      - main
 
 jobs:
   deploy:
@@ -17,8 +17,11 @@ jobs:
         with:
           hugo-version: 'latest'
 
+      - name: Setup Git (for Hugo modules)
+        run: git submodule update --init --recursive
+
       - name: Build
-        run: hugo --minify
+        run: hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
