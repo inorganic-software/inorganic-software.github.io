@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sections on Inorganic</title>
-    <link>/sections/</link>
+    <link>https://inorganic-software.github.io/sections/</link>
     <description>Recent content in Sections on Inorganic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://inorganic-software.github.io/sections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Companies we work with</title>
       <link></link>
