@@ -21,7 +21,8 @@ jobs:
       - name: Setup Git (for Hugo modules)
         run: git submodule update --init --recursive
 
-      - run: npm ci
+      - name: Install dependencies
+        run: npm install
 
       - name: Build
         run: hugo
