@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sections on Inorganic</title><link>https://inorganic-software.github.io/website/es/sections/</link><description>Recent content in Sections on Inorganic</description><generator>Hugo</generator><language>es-ES</language><atom:link href="https://inorganic-software.github.io/website/es/sections/index.xml" rel="self" type="application/rss+xml"/><item><title>Empresas con las que trabajamos</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Lo que dicen nuestros clientes sobre nosotros</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Ready to build your next project with Hugo?</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Somos partner</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Inorganic</title>
+    <link>/es/sections/</link>
+    <description>Recent content in Sections on Inorganic</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <atom:link href="/es/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empresas con las que trabajamos</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lo que dicen nuestros clientes sobre nosotros</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ready to build your next project with Hugo?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Somos partner</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
