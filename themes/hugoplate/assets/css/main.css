@@ -32,3 +32,19 @@
 
 @import "module-overrides.css";
 @import "custom.css";
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.logo-marquee {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background: white;
+}
+.logo-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 40s linear infinite;
+}

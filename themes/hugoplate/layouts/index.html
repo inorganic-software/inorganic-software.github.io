@@ -103,21 +103,23 @@
         </p>
       </div>
       <div class="col-12">
-        <div class="swiper clients-slider">
-          <div class="swiper-wrapper">
+        <div class="logo-marquee overflow-hidden py-6 bg-white dark:bg-darkmode-light">
+          <div class="logo-track flex items-center animate-marquee">
             {{ range .Params.clients }}
-            <div class="swiper-slide flex items-center justify-center h-full">
-              <div
-                class="bg-white dark:bg-darkmode-light px-7 py-7">
-                <a class="text-text-dark dark:text-white" href="{{ .href }}" target="_blank">
+              <div class="mx-8 flex-shrink-0">
+                <a href="{{ .href }}" target="_blank">
                   {{ partial "image" (dict "Src" .image "Class" "max-h-24 h-auto w-auto" "Alt" .name) }}
                 </a>
               </div>
-            </div>
+            {{ end }}
+            {{ range .Params.clients }}
+              <div class="mx-8 flex-shrink-0">
+                <a href="{{ .href }}" target="_blank">
+                  {{ partial "image" (dict "Src" .image "Class" "max-h-24 h-auto w-auto" "Alt" .name) }}
+                </a>
+              </div>
             {{ end }}
           </div>
-          <div
-            class="clients-slider-pagination mt-9 flex items-center justify-center text-center"></div>
         </div>
       </div>
     </div>
