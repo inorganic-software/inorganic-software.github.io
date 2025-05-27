@@ -45,8 +45,9 @@
 }
 .logo-track {
   display: flex;
-  width: max-content;
+  min-width: 300vw;
   animation: marquee 40s linear infinite;
+  backface-visibility: hidden;
 }
 
 @keyframes marquee-clients-mobile {
@@ -60,7 +61,7 @@
 @media (max-width: 768px) {
   .logo-track {
     animation-name: marquee-clients-mobile !important;
-    animation-duration: 12s !important;
+    animation-duration: 30s !important;
     animation-timing-function: linear !important;
     animation-iteration-count: infinite !important;
   }
