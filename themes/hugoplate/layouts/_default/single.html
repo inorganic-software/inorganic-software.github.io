@@ -72,21 +72,14 @@
         </p>
       </div>
       <div class="col-12">
-        <div class="swiper partner-slider">
-          <div class="swiper-wrapper">
-            {{ range .Params.partners }}
-            <div class="swiper-slide flex items-center justify-center h-full">
-              <div
-                class="bg-white dark:bg-darkmode-light px-7 py-7">
-                <div class="text-text-dark dark:text-white">
-                  {{ partial "image" (dict "Src" .image "Class" "max-h-24 h-auto w-auto" "Alt" .name) }}
-                </div>
-              </div>
+        <div class="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-24">
+          {{ range .Params.partners }}
+            <div class="flex items-center justify-center">
+              <a href="{{ .href }}" target="_blank">
+                {{ partial "image" (dict "Src" .image "Class" "max-h-10 h-auto w-auto" "Alt" .name) }}
+              </a>
             </div>
-            {{ end }}
-          </div>
-          <div
-            class="partner-slider-pagination mt-9 flex items-center justify-center text-center"></div>
+          {{ end }}
         </div>
       </div>
     </div>
