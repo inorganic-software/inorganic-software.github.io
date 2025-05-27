@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Inorganic</title>
-    <link>https://inorganic-software.github.io/pages/</link>
+    <link>https://www.inorganic.es/pages/</link>
     <description>Recent content in Pages on Inorganic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://inorganic-software.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.inorganic.es/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://inorganic-software.github.io/ai/</link>
+      <link>https://www.inorganic.es/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic-software.github.io/ai/</guid>
+      <guid>https://www.inorganic.es/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud</title>
-      <link>https://inorganic-software.github.io/cloud/</link>
+      <link>https://www.inorganic.es/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic-software.github.io/cloud/</guid>
+      <guid>https://www.inorganic.es/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>https://inorganic-software.github.io/cybersecurity/</link>
+      <link>https://www.inorganic.es/cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic-software.github.io/cybersecurity/</guid>
+      <guid>https://www.inorganic.es/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://inorganic-software.github.io/data/</link>
+      <link>https://www.inorganic.es/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic-software.github.io/data/</guid>
+      <guid>https://www.inorganic.es/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
-      <link>https://inorganic-software.github.io/networking/</link>
+      <link>https://www.inorganic.es/networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic-software.github.io/networking/</guid>
+      <guid>https://www.inorganic.es/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://inorganic-software.github.io/privacy-policy/</link>
+      <link>https://www.inorganic.es/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic-software.github.io/privacy-policy/</guid>
+      <guid>https://www.inorganic.es/privacy-policy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Last updated: May 7, 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;At &lt;strong&gt;Inorganic&lt;/strong&gt;, we take your privacy seriously. This policy explains how we collect, use, and protect your personal data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software</title>
-      <link>https://inorganic-software.github.io/example/</link>
+      <link>https://www.inorganic.es/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic-software.github.io/example/</guid>
+      <guid>https://www.inorganic.es/example/</guid>
       <description>&lt;p&gt;&lt;code&gt;&#xA;&lt;details class=&#34;table-of-content &#34;&gt;&#xA;  &lt;summary&gt;&#xA;    &#xA;      Table of Contents&#xA;    &#xA;  &lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#button&#34;&gt;Button&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#accordions&#34;&gt;Accordions&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#slider&#34;&gt;Slider&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software</title>
-      <link>https://inorganic-software.github.io/software/</link>
+      <link>https://www.inorganic.es/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic-software.github.io/software/</guid>
+      <guid>https://www.inorganic.es/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Terms and Conditions of Use</title>
-      <link>https://inorganic-software.github.io/terms/</link>
+      <link>https://www.inorganic.es/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic-software.github.io/terms/</guid>
+      <guid>https://www.inorganic.es/terms/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Last updated: May 7, 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;Inorganic&lt;/strong&gt;. By accessing and using this website, you agree to the following terms and conditions. If you do not agree, please do not use our services.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Inorganic</title>
-    <link>https://inorganic-software.github.io/es/categories/software/</link>
+    <link>https://www.inorganic.es/es/categories/software/</link>
     <description>Recent content in Software on Inorganic</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://inorganic-software.github.io/es/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.inorganic.es/es/categories/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://inorganic-software.github.io/es/blog/post-3/</link>
+      <link>https://www.inorganic.es/es/blog/post-3/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://inorganic-software.github.io/es/blog/post-3/</guid>
+      <guid>https://www.inorganic.es/es/blog/post-3/</guid>
       <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
   </channel>
