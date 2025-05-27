@@ -542,11 +542,8 @@
   .h-full {
     height: 100%;
   }
-  .max-h-16 {
-    max-height: calc(var(--spacing) * 16);
-  }
-  .max-h-24 {
-    max-height: calc(var(--spacing) * 24);
+  .max-h-10 {
+    max-height: calc(var(--spacing) * 10);
   }
   .col-12 {
     flex: 0 0 auto;
@@ -825,9 +822,6 @@
   }
   .py-6 {
     padding-block: calc(var(--spacing) * 6);
-  }
-  .py-7 {
-    padding-block: calc(var(--spacing) * 7);
   }
   .py-10 {
     padding-block: calc(var(--spacing) * 10);
