@@ -48,3 +48,26 @@
   width: max-content;
   animation: marquee 40s linear infinite;
 }
+
+@keyframes marquee-clients-mobile {
+  0% { transform: translateX(-50%); }
+  100% { transform: translateX(0); }
+}
+@keyframes marquee-partner-mobile {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+@media (max-width: 768px) {
+  .logo-track {
+    animation-name: marquee-clients-mobile !important;
+    animation-duration: 12s !important;
+    animation-timing-function: linear !important;
+    animation-iteration-count: infinite !important;
+  }
+  .logo-track-partner {
+    animation-name: marquee-partner-mobile !important;
+    animation-duration: 6s !important;
+    animation-timing-function: linear !important;
+    animation-iteration-count: infinite !important;
+  }
+}
