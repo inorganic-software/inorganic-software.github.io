@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inorganic</title>
-    <link>https://www.inorganic.es/es/</link>
+    <link>https://inorganic.es/es/</link>
     <description>Recent content on Inorganic</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.inorganic.es/es/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://inorganic.es/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://www.inorganic.es/es/blog/post-1/</link>
+      <link>https://inorganic.es/es/blog/post-1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/blog/post-1/</guid>
+      <guid>https://inorganic.es/es/blog/post-1/</guid>
       <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://www.inorganic.es/es/blog/post-2/</link>
+      <link>https://inorganic.es/es/blog/post-2/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/blog/post-2/</guid>
+      <guid>https://inorganic.es/es/blog/post-2/</guid>
       <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://www.inorganic.es/es/blog/post-3/</link>
+      <link>https://inorganic.es/es/blog/post-3/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/blog/post-3/</guid>
+      <guid>https://inorganic.es/es/blog/post-3/</guid>
       <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://www.inorganic.es/es/blog/post-4/</link>
+      <link>https://inorganic.es/es/blog/post-4/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/blog/post-4/</guid>
+      <guid>https://inorganic.es/es/blog/post-4/</guid>
       <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ciberseguridad</title>
-      <link>https://www.inorganic.es/es/cybersecurity/</link>
+      <link>https://inorganic.es/es/cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/cybersecurity/</guid>
+      <guid>https://inorganic.es/es/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud</title>
-      <link>https://www.inorganic.es/es/cloud/</link>
+      <link>https://inorganic.es/es/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/cloud/</guid>
+      <guid>https://inorganic.es/es/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Condiciones Generales de Uso</title>
-      <link>https://www.inorganic.es/es/terms/</link>
+      <link>https://inorganic.es/es/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/terms/</guid>
+      <guid>https://inorganic.es/es/terms/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Última actualización: 7 de mayo de 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bienvenido a &lt;strong&gt;Inorganic&lt;/strong&gt;. Al acceder y utilizar este sitio web, aceptas las siguientes condiciones generales de uso. Si no estás de acuerdo con estos términos, por favor, no utilices nuestros servicios.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://www.inorganic.es/es/data/</link>
+      <link>https://inorganic.es/es/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/data/</guid>
+      <guid>https://inorganic.es/es/data/</guid>
       <description></description>
     </item>
     <item>
@@ -73,16 +73,16 @@
     </item>
     <item>
       <title>IA</title>
-      <link>https://www.inorganic.es/es/ai/</link>
+      <link>https://inorganic.es/es/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/ai/</guid>
+      <guid>https://inorganic.es/es/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>John Doe</title>
-      <link>https://www.inorganic.es/es/authors/john-doe/</link>
+      <link>https://inorganic.es/es/authors/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/authors/john-doe/</guid>
+      <guid>https://inorganic.es/es/authors/john-doe/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
@@ -94,16 +94,16 @@
     </item>
     <item>
       <title>Networking</title>
-      <link>https://www.inorganic.es/es/networking/</link>
+      <link>https://inorganic.es/es/networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/networking/</guid>
+      <guid>https://inorganic.es/es/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Política de Privacidad</title>
-      <link>https://www.inorganic.es/es/privacy-policy/</link>
+      <link>https://inorganic.es/es/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/privacy-policy/</guid>
+      <guid>https://inorganic.es/es/privacy-policy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Última actualización: 7 de mayo de 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;En &lt;strong&gt;Inorganic&lt;/strong&gt; respetamos tu privacidad. Esta política explica cómo recopilamos, usamos y protegemos tus datos personales.&lt;/p&gt;</description>
     </item>
     <item>
@@ -115,16 +115,16 @@
     </item>
     <item>
       <title>Sam Wilson</title>
-      <link>https://www.inorganic.es/es/authors/sam-wilson/</link>
+      <link>https://inorganic.es/es/authors/sam-wilson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/authors/sam-wilson/</guid>
+      <guid>https://inorganic.es/es/authors/sam-wilson/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software</title>
-      <link>https://www.inorganic.es/es/software/</link>
+      <link>https://inorganic.es/es/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/software/</guid>
+      <guid>https://inorganic.es/es/software/</guid>
       <description></description>
     </item>
     <item>
@@ -136,9 +136,9 @@
     </item>
     <item>
       <title>William Jacob</title>
-      <link>https://www.inorganic.es/es/authors/william-jacob/</link>
+      <link>https://inorganic.es/es/authors/william-jacob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.inorganic.es/es/authors/william-jacob/</guid>
+      <guid>https://inorganic.es/es/authors/william-jacob/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
   </channel>

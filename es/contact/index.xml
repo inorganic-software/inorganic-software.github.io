@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacto on Inorganic</title>
-    <link>https://www.inorganic.es/es/contact/</link>
+    <link>https://inorganic.es/es/contact/</link>
     <description>Recent content in Contacto on Inorganic</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <atom:link href="https://www.inorganic.es/es/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://inorganic.es/es/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
