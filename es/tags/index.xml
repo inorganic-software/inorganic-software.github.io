@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Inorganic</title><link>https://inorganic-software.github.io/website/es/tags/</link><description>Recent content in Tags on Inorganic</description><generator>Hugo</generator><language>es-ES</language><lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://inorganic-software.github.io/website/es/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Nextjs</title><link>https://inorganic-software.github.io/website/es/tags/nextjs/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://inorganic-software.github.io/website/es/tags/nextjs/</guid><description/></item><item><title>Silicon</title><link>https://inorganic-software.github.io/website/es/tags/silicon/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://inorganic-software.github.io/website/es/tags/silicon/</guid><description/></item><item><title>Software</title><link>https://inorganic-software.github.io/website/es/tags/software/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://inorganic-software.github.io/website/es/tags/software/</guid><description/></item><item><title>Tailwind</title><link>https://inorganic-software.github.io/website/es/tags/tailwind/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://inorganic-software.github.io/website/es/tags/tailwind/</guid><description/></item><item><title>Technology</title><link>https://inorganic-software.github.io/website/es/tags/technology/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://inorganic-software.github.io/website/es/tags/technology/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Inorganic</title>
+    <link>https://inorganic-software.github.io/es/tags/</link>
+    <description>Recent content in Tags on Inorganic</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://inorganic-software.github.io/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nextjs</title>
+      <link>https://inorganic-software.github.io/es/tags/nextjs/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://inorganic-software.github.io/es/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Silicon</title>
+      <link>https://inorganic-software.github.io/es/tags/silicon/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://inorganic-software.github.io/es/tags/silicon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://inorganic-software.github.io/es/tags/software/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://inorganic-software.github.io/es/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tailwind</title>
+      <link>https://inorganic-software.github.io/es/tags/tailwind/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://inorganic-software.github.io/es/tags/tailwind/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://inorganic-software.github.io/es/tags/technology/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://inorganic-software.github.io/es/tags/technology/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
