@@ -55,7 +55,8 @@
   width: 100%;
   overflow: hidden;
   background: white;
-  /* Bordes suaves en el scroll */
+
+  /* Oculta bordes visualmente al inicio y fin */
   mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
   -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
 }
@@ -63,22 +64,27 @@
 .logo-track {
   display: flex;
   width: max-content;
-  animation: marquee 40s linear infinite;
-  will-change: transform;
   backface-visibility: hidden;
   transform: translateZ(0);
   perspective: 1000px;
+  will-change: transform;
+
+  /* La animación solo se aplica si se añade la clase `.animate` */
+}
+
+.logo-track.animate {
+  animation: marquee 60s linear infinite;
 }
 
 @media (max-width: 768px) {
-  .logo-track {
+  .logo-track.animate {
     animation-name: marquee-clients-mobile !important;
-    animation-duration: 60s !important;
+    animation-duration: 30s !important;
     animation-timing-function: linear !important;
     animation-iteration-count: infinite !important;
   }
 
-  .logo-track-partner {
+  .logo-track-partner.animate {
     animation-name: marquee-partner-mobile !important;
     animation-duration: 6s !important;
     animation-timing-function: linear !important;

@@ -49,5 +49,30 @@
 
     <!-- script (always cache it) -->
     {{ partialCached "essentials/script.html" . }}
+
+    <script>
+      window.addEventListener('DOMContentLoaded', () => {
+        const track = document.querySelector('.logo-track');
+        const images = track.querySelectorAll('img');
+        let loadedCount = 0;
+    
+        const tryStart = () => {
+          loadedCount++;
+          if (loadedCount === images.length) {
+            track.classList.add('animate');
+          }
+        };
+    
+        images.forEach((img) => {
+          if (img.complete) {
+            tryStart();
+          } else {
+            img.addEventListener('load', tryStart);
+            img.addEventListener('error', tryStart);
+          }
+        });
+      });
+    </script>
+
   </body>
 </html>
