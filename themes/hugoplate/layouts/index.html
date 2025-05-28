@@ -102,9 +102,10 @@
           {{ .Params.description | markdownify }}
         </p>
       </div>
+
       <div class="col-12">
-        <div class="logo-marquee overflow-hidden py-6 bg-white dark:bg-darkmode-light">
-          <div class="logo-track flex items-center animate-marquee">
+        <div class="logo-marquee relative overflow-hidden py-6 bg-white dark:bg-darkmode-light">
+          <div class="logo-track flex items-center will-change-transform animate-marquee">
             {{ range .Params.clients }}
               <div class="mx-8 flex-shrink-0">
                 <a href="{{ .href }}" target="_blank">
