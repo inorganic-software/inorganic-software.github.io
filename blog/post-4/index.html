@@ -340,8 +340,8 @@
 
 
 <link
-  href="/css/style.min.4d4ff83407a0d8c4915addd45a0c9d5dbd08cf88a2df82eece19e3cebb99ad3d.css"
-  integrity="sha256-TU/4NAeg2MSRWt3UWgydXb0Iz4ii34LuzhnjzruZrT0="
+  href="/css/style.min.1ccfb6907522716ff4d30941f882794d4e5449db022b1c8183340dbcbd1c1b8b.css"
+  integrity="sha256-HM&#43;2kHUicW/00wlB&#43;IJ5TU5USdsCKxyBgzQNvL0cG4s="
   rel="stylesheet" />
 
 
@@ -1689,6 +1689,31 @@
   
 
 
+
+
+    <script>
+      window.addEventListener('DOMContentLoaded', () => {
+        const track = document.querySelector('.logo-track');
+        const images = track.querySelectorAll('img');
+        let loadedCount = 0;
+    
+        const tryStart = () => {
+          loadedCount++;
+          if (loadedCount === images.length) {
+            track.classList.add('animate');
+          }
+        };
+    
+        images.forEach((img) => {
+          if (img.complete) {
+            tryStart();
+          } else {
+            img.addEventListener('load', tryStart);
+            img.addEventListener('error', tryStart);
+          }
+        });
+      });
+    </script>
 
   </body>
 </html>
