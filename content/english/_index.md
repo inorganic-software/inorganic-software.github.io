@@ -1,8 +1,13 @@
 ---
 # Banner
 banner:
-  title: "End-to-End Technology Solutions"
-  content: "We specialize in Software, Data, Cybersecurity, and Cloud services to drive innovation and digital success for your business."
+  title: "Technology to evolve"
+  content: >
+    <em>“Your company may not be in the software business,<br>
+    but eventually a software company will be in your business.”<br>
+    — Naval Ravikant</em><br><br>
+    We drive your company’s evolution through Software, Data, AI, Cybersecurity, and Cloud technologies.
+  image: "/images/banner.png"
   image: "/images/banner.png"
   video: "/images/home.webm"
   button:

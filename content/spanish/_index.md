@@ -1,8 +1,12 @@
 ---
 # Banner
 banner:
-  title: "Soluciones Tecnológicas Integrales"
-  content: "Ofrecemos servicios especializados en Software, Data, Ciberseguridad y Cloud para impulsar la transformación digital de su empresa."
+  title: "Tecnología para evolucionar"
+  content: >
+    <em>“Puede que tu empresa no esté en el negocio del software,<br>
+    pero tarde o temprano una empresa de software estará en tu negocio.”<br>
+    — Naval Ravikant</em><br><br>
+    Hacemos evolucionar tu empresa a través de Software, Datos, Inteligencia Artificial, Ciberseguridad y Cloud.
   image: "/images/banner.png"
   video: "/images/home.webm"
   button:
