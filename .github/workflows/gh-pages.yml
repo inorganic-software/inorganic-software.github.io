@@ -31,7 +31,7 @@ jobs:
         run: hugo
 
       - name: Add CNAME file
-        run: echo 'inorganic.es' > public/CNAME
+        run: echo 'inorganic.com' > public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
