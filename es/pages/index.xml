@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Inorganic</title>
-    <link>https://inorganic.es/es/pages/</link>
+    <link>https://inorganic.com/es/pages/</link>
     <description>Recent content in Pages on Inorganic</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <atom:link href="https://inorganic.es/es/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://inorganic.com/es/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ciberseguridad</title>
-      <link>https://inorganic.es/es/cybersecurity/</link>
+      <link>https://inorganic.com/es/cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic.es/es/cybersecurity/</guid>
+      <guid>https://inorganic.com/es/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud</title>
-      <link>https://inorganic.es/es/cloud/</link>
+      <link>https://inorganic.com/es/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic.es/es/cloud/</guid>
+      <guid>https://inorganic.com/es/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Condiciones Generales de Uso</title>
-      <link>https://inorganic.es/es/terms/</link>
+      <link>https://inorganic.com/es/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic.es/es/terms/</guid>
+      <guid>https://inorganic.com/es/terms/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Última actualización: 7 de mayo de 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bienvenido a &lt;strong&gt;Inorganic&lt;/strong&gt;. Al acceder y utilizar este sitio web, aceptas las siguientes condiciones generales de uso. Si no estás de acuerdo con estos términos, por favor, no utilices nuestros servicios.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://inorganic.es/es/data/</link>
+      <link>https://inorganic.com/es/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic.es/es/data/</guid>
+      <guid>https://inorganic.com/es/data/</guid>
       <description></description>
     </item>
     <item>
       <title>IA</title>
-      <link>https://inorganic.es/es/ai/</link>
+      <link>https://inorganic.com/es/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic.es/es/ai/</guid>
+      <guid>https://inorganic.com/es/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
-      <link>https://inorganic.es/es/networking/</link>
+      <link>https://inorganic.com/es/networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic.es/es/networking/</guid>
+      <guid>https://inorganic.com/es/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Política de Privacidad</title>
-      <link>https://inorganic.es/es/privacy-policy/</link>
+      <link>https://inorganic.com/es/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic.es/es/privacy-policy/</guid>
+      <guid>https://inorganic.com/es/privacy-policy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Última actualización: 7 de mayo de 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;En &lt;strong&gt;Inorganic&lt;/strong&gt; respetamos tu privacidad. Esta política explica cómo recopilamos, usamos y protegemos tus datos personales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software</title>
-      <link>https://inorganic.es/es/software/</link>
+      <link>https://inorganic.com/es/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://inorganic.es/es/software/</guid>
+      <guid>https://inorganic.com/es/software/</guid>
       <description></description>
     </item>
   </channel>
